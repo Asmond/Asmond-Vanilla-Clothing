@@ -33,13 +33,13 @@ All retextures are designed to integrate seamlessly into the base game, making t
 
 - No original vanilla clothing item has been modified or replaced.
 
-- Insulation, weight, and capacity values have been adjusted accordingly for new clothing variants.
-
 - “New” clothing pieces are created using models already present in the game.
 
 - You won’t find fluorescent clothing or unrealistic seasonal combinations.
 
 - You won’t find overpowered gear such as 200-slot backpacks or indestructible vests.
+
+- Insulation, weight, capacity values, damage values, hitpoins... nothing was changed.
 
 - You won’t find logos, symbols, or references related to politics, sexuality, or other immersion-breaking themes.
 
