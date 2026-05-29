@@ -1,0 +1,212 @@
+<!-- FULLY UPDATED CFGSPAWNABLETYPES FOR THE MOD -->
+<!-- YOU CAN COPY PASTE AND EVERYSHING SHOULD WORK FINE -->
+<!-- DO NOT REPLACE THE CONTENT OF YOUR CFGSPAWNABLETYPES.XML -->
+
+<!-- START ASMOND VANILLA CLOTHING SPAWNABLETYPES -->
+
+<!-- PLATE CARRIER VESTS -->
+
+	<type name="Asmond_PlateCarrierVest_Arctic">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_Arctic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_Arctic" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_BDU">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_BDU" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_BDU" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_EMR">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_EMR" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_EMR" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_Woodland">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_Woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_Woodland" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_Desert">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_Desert" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_Desert" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_White">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_White" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_White" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_Brown">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_Brown" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_PlateCarrierVest_Surpat">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierHolster_Surpat" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="Asmond_PlateCarrierPouches_Surpat" chance="1.00" />
+		</attachments>
+	</type>
+
+<!-- SMERSH VESTS -->
+
+        <type name="Asmond_SmershVest_ACU">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_ACU" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_EMR">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_EMR" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Woodland">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Woodland" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Orel">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Orel" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Tan">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Tan" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_TTSKO">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_TTSKO" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Black">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Black" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Grey">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Grey" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Winter">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Winter" chance="1.00" />
+               </attachments>
+        </type>
+
+        <type name="Asmond_SmershVest_Desert">
+	       <damage min="0.1" max="0.6" />
+               <attachments chance="0.50">
+            	       <item name="Asmond_SmershBag_Desert" chance="1.00" />
+               </attachments>
+        </type>
+
+<!-- GASMASKS -->
+
+	<type name="Asmond_AirborneMask_Grey">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_AirborneMask_Grey">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_AirborneMask_Black">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_AirborneMask_Camo">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_GP5GasMask_Camo">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_GP5GasMask_Black">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_GP5GasMask_Brown">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+<!-- END ASMOND VANILLA CLOTHING SPAWNABLETYPES -->
