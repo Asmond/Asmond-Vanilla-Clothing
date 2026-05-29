@@ -1,6 +1,4 @@
-====================================================
-      ASMOND – VANILLA CLOTHING RETEXTURES
-====================================================
+# Asmond Vanilla Clothing
 
 Asmond – Vanilla Clothing adds 800+ custom-made
 retextures to DayZ vanilla clothing, providing
