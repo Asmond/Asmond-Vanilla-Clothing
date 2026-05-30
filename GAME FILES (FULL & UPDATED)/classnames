@@ -781,6 +781,7 @@ Asmond_MedicalScrubsShirt_Black
 Asmond_MedicalScrubsShirt_Blue
 Asmond_MedicalScrubsShirt_Red
 -----------------------------
+Asmond_MilitarySweater_Tiger
 Asmond_MilitarySweater_Stalker
 Asmond_MilitarySweater_ACU
 Asmond_MilitarySweater_VSRFlora
@@ -959,6 +960,8 @@ Asmond_Chestplate_Rebels
 Asmond_Chestplate_RebelsRed
 Asmond_Chestplate_King
 --------------------------------
+Asmond_HighCapacityVest_Arctic
+Asmond_HighCapacityVest_Tiger
 Asmond_HighCapacityVest_VSRFlora
 Asmond_HighCapacityVest_ACU
 Asmond_HighCapacityVest_EMR
@@ -980,6 +983,7 @@ Asmond_HuntingVest_Winter
 Asmond_HuntingVest_Brown
 Asmond_HuntingVest_Beige
 --------------------------------
+Asmond_PlateCarrierVest_UN
 Asmond_PlateCarrierVest_Arctic
 Asmond_PlateCarrierVest_BDU
 Asmond_PlateCarrierVest_EMR
@@ -1014,7 +1018,6 @@ Asmond_PoliceVest_VSRFlora
 Asmond_PoliceVest_Green
 Asmond_PoliceVest_Winter
 --------------------------------
-Asmond_PressVest_Tan
 Asmond_PressVest_Grey
 Asmond_PressVest_Black
 Asmond_PressVest_AAN
