@@ -8,7 +8,7 @@ All retextures are designed to integrate seamlessly into the base game, making t
 
 ## 🔗 Steam Workshop
 
-👉 https://steamcommunity.com/sharedfiles/filedetails/?id=3640419203
+👉 https://steamcommunity.com/sharedfiles/filedetails/?id=3735683378
 
 ---
 
