@@ -457,7 +457,9 @@ Asmond_Ssh68Helmet_White
 Asmond_Ssh68Helmet_Soviet
 Asmond_Ssh68Helmet_Tan
 Asmond_Ssh68Helmet_Grey
-
+--------------------------------
+Asmond_T56TankerHelmet_Black
+Asmond_T56TankerHelmet_White
 
 
 ################## MASKS ################################
