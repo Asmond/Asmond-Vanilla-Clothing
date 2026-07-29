@@ -46,16 +46,6 @@
 		</attachments>
 	</type>
 
-	<type name="Asmond_PlateCarrierVest_Desert">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
-			<item name="Asmond_PlateCarrierHolster_Desert" chance="1.00" />
-		</attachments>
-		<attachments chance="0.85">
-			<item name="Asmond_PlateCarrierPouches_Desert" chance="1.00" />
-		</attachments>
-	</type>
-
 	<type name="Asmond_PlateCarrierVest_White">
 		<damage min="0.1" max="0.6" />
 		<attachments chance="0.85">
@@ -160,7 +150,7 @@
 
 <!-- GASMASKS -->
 
-	<type name="Asmond_AirborneMask_Grey">
+	<type name="Asmond_AirborneMask_Green">
 		<damage min="0.0" max="0.35" />
 		<attachments chance="0.2">
 			<item name="GasMask_Filter" />
@@ -174,7 +164,14 @@
 		</attachments>
 	</type>
 
-	<type name="Asmond_AirborneMask_Black">
+	<type name="Asmond_AirborneMask_Grey">
+		<damage min="0.0" max="0.35" />
+		<attachments chance="0.2">
+			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_AirborneMask_White">
 		<damage min="0.0" max="0.35" />
 		<attachments chance="0.2">
 			<item name="GasMask_Filter" />
@@ -206,6 +203,20 @@
 		<damage min="0.0" max="0.35" />
 		<attachments chance="0.2">
 			<item name="GasMask_Filter" />
+		</attachments>
+	</type>
+
+<!-- GORKA HELMETS -->
+
+	<type name="Asmond_GorkaHelmet_Police">
+		<attachments chance="0.80">
+			<item name="Asmond_GorkaHelmetVisor_Police" chance="1.00" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_GorkaHelmet_Grey">
+		<attachments chance="0.80">
+			<item name="Asmond_GorkaHelmetVisor_Grey" chance="1.00" />
 		</attachments>
 	</type>
 
