@@ -3639,6 +3639,20 @@
       <usage name="Farm"/>
     </type>
 
+    <type name="Asmond_SherpaHat_Stripes">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <usage name="Village"/>
+    </type>
+
     <type name="Asmond_SherpaHat_Aymara">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -4772,6 +4786,55 @@
       <value name="Tier4"/>
     </type>
 
+    <type name="Asmond_GorkaHelmet_NAC">
+      <nominal>0</nominal>
+      <min>0</min>
+      <lifetime>1800</lifetime>
+      <restock>1800</restock>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <usage />
+      <value user="Tier5" />
+      <category name="clothes" />
+      <tag name="military" />
+    </type>
+
+    <type name="Asmond_GorkaHelmetVisor_Police">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_GorkaHelmetVisor_Grey">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
     <type name="Asmond_GreatHelm_Rebels">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -5284,6 +5347,20 @@
       <usage name="Military"/>
     </type>
 
+    <type name="Asmond_AirborneMask_Green">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Medic"/>
+      <usage name="Firefighter"/>
+    </type>
+
     <type name="Asmond_AirborneMask_Grey">
       <nominal>0</nominal>
       <lifetime>28800</lifetime>
@@ -5298,7 +5375,7 @@
       <usage name="Firefighter"/>
     </type>
 
-    <type name="Asmond_AirborneMask_Black">
+    <type name="Asmond_AirborneMask_White">
       <nominal>0</nominal>
       <lifetime>28800</lifetime>
       <restock>0</restock>
@@ -6021,6 +6098,19 @@
       <usage name="Industrial"/>
     </type>
 
+    <type name="Asmond_CargoPants_DCU">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Military"/>
+    </type>
+
     <type name="Asmond_CargoPants_M05">
       <nominal>0</nominal>
       <lifetime>28800</lifetime>
@@ -6236,6 +6326,45 @@
       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
       <category name="clothes"/>
       <usage name="Historical"/>
+    </type>
+
+    <type name="Asmond_FirefightersHelmet_Green">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Firefighter"/>
+    </type>
+
+    <type name="Asmond_FirefightersHelmet_Brown">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Firefighter"/>
+    </type>
+
+    <type name="Asmond_FirefightersHelmet_Blue">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Firefighter"/>
     </type>
 
     <type name="Asmond_FirefightersPants_Blue">
@@ -7589,6 +7718,21 @@
       <value name="Tier4"/>
     </type>
 
+    <type name="Asmond_BushlatJacket_Tiger">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Police"/>
+      <value name="Tier3"/>
+      <value name="Tier4"/>
+    </type>
+
     <type name="Asmond_BushlatJacket_Arctic">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -7709,6 +7853,34 @@
       <usage name="Police"/>
       <value name="Tier3"/>
       <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_CasualShirt_White">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <value name="Tier1"/>
+    </type>
+
+    <type name="Asmond_CasualShirt_Pink">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <value name="Tier1"/>
     </type>
 
     <type name="Asmond_CasualShirt_Beige">
@@ -8707,6 +8879,19 @@
       <value name="Tier3"/>
     </type>
 
+    <type name="Asmond_LightMilitaryJacket_EMR">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>600</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Military"/>
+    </type>
+
     <type name="Asmond_LightMilitaryJacket_TropenTarn">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -8895,6 +9080,32 @@
       <usage name="School"/>
     </type>
 
+    <type name="Asmond_MotoPoliceHelmet_Chernarus">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Police"/>
+    </type>
+
+    <type name="Asmond_MotoPoliceHelmet_Livonia">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Police"/>
+    </type>
+
     <type name="Asmond_M65Jacket_MulticamDark">
       <nominal>0</nominal>
       <lifetime>28800</lifetime>
@@ -9015,6 +9226,21 @@
       <value name="Tier4"/>
     </type>
 
+    <type name="Asmond_M65Jacket_EMR">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>600</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Military"/>
+      <value name="Tier3"/>
+      <value name="Tier4"/>
+    </type>
+
     <type name="Asmond_MedicalScrubsShirt_Black">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -9052,6 +9278,45 @@
       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
       <category name="clothes"/>
       <usage name="Medic"/>
+    </type>
+
+    <type name="Asmond_MedievalJacket_Rebels">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Historical"/>
+    </type>
+
+    <type name="Asmond_MedievalJacket_King">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Historical"/>
+    </type>
+
+    <type name="Asmond_MedievalJacket_Knights">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Historical"/>
     </type>
 
     <type name="Asmond_MilitarySweater_Tiger">
@@ -9914,6 +10179,22 @@
       <value name="Tier2"/>
     </type>
 
+    <type name="Asmond_Shirt_MovieHawai">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <usage name="Village"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
     <type name="Asmond_Shirt_MovieAnotonio">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -10140,6 +10421,110 @@
       <value name="Tier2"/>
       <value name="Tier3"/>
       <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_SatchelBag_Blue">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="containers"/>
+      <usage name="Town"/>
+      <usage name="School"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
+    <type name="Asmond_SatchelBag_Red">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="containers"/>
+      <usage name="Town"/>
+      <usage name="School"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
+    <type name="Asmond_SatchelBag_Pink">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="containers"/>
+      <usage name="Town"/>
+      <usage name="School"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
+    <type name="Asmond_SatchelBag_Grey">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="containers"/>
+      <usage name="Town"/>
+      <usage name="School"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
+    <type name="Asmond_SatchelBag_Green">
+      <nominal>0</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="containers"/>
+      <usage name="Town"/>
+      <usage name="School"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
+    <type name="Asmond_SkiGoggles_Black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+
+    <type name="Asmond_SkiGoggles_Multi">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
     </type>
 
     <type name="Asmond_TacticalShirt_M05">
@@ -10896,6 +11281,40 @@
       <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
       <category name="clothes"/>
       <usage name="Military"/>
+      <value name="Tier3"/>
+      <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_WoolCoat_SquareGreen">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <usage name="Village"/>
+      <value name="Tier2"/>
+      <value name="Tier3"/>
+      <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_WoolCoat_Reno">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <usage name="Village"/>
+      <value name="Tier2"/>
       <value name="Tier3"/>
       <value name="Tier4"/>
     </type>
@@ -11747,6 +12166,32 @@
       <category name="clothes"/>
       <tag name="shelves"/>
       <usage name="Military"/>
+    </type>
+
+    <type name="Asmond_PoliceVest_White">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Police"/>
+    </type>
+
+    <type name="Asmond_PoliceVest_Tiger">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Police"/>
     </type>
 
     <type name="Asmond_PoliceVest_Orel">
