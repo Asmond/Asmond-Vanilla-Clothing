@@ -10205,6 +10205,22 @@
       <value name="Tier2"/>
     </type>
 
+    <type name="Asmond_Shirt_MovieFlowers">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Town"/>
+      <usage name="Village"/>
+      <value name="Tier1"/>
+      <value name="Tier2"/>
+    </type>
+
     <type name="Asmond_Shirt_MovieHawai">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -11251,6 +11267,21 @@
       <usage name="Firefighter"/>
     </type>
 
+    <type name="Asmond_WinterMilitaryCoat_White">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Military"/>
+      <value name="Tier3"/>
+      <value name="Tier4"/>
+    </type>
+
     <type name="Asmond_WinterMilitaryCoat_Beige">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -11878,6 +11909,21 @@
         <usage name="Industrial"/>
     </type>
 
+    <type name="Asmond_PlateCarrierVest_Combat">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <usage name="Military"/>
+      <value name="Tier3"/>
+      <value name="Tier4"/>
+    </type>
+
     <type name="Asmond_PlateCarrierVest_UN">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -11998,6 +12044,20 @@
       <value name="Tier4"/>
     </type>
 
+    <type name="Asmond_PlateCarrierPouches_Combat">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <tag name="shelves"/>
+      <usage name="Military"/>
+    </type>
+
     <type name="Asmond_PlateCarrierPouches_Arctic">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
@@ -12083,6 +12143,20 @@
     </type>
 
     <type name="Asmond_PlateCarrierPouches_Surpat">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="clothes"/>
+      <tag name="shelves"/>
+      <usage name="Military"/>
+    </type>
+
+    <type name="Asmond_PlateCarrierHolster_Combat">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
       <restock>0</restock>
