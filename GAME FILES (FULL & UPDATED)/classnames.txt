@@ -505,6 +505,7 @@ Asmond_GP5GasMask_Camo
 Asmond_GP5GasMask_Black
 Asmond_GP5GasMask_Brown
 --------------------------------
+Asmond_MimeMask_Jibaro
 Asmond_MimeMask_PaperHouse
 Asmond_MimeMask_Nosferatu
 Asmond_MimeMask_Black
@@ -846,6 +847,7 @@ Asmond_RidersJacket_Blue
 Asmond_RidersJacket_Brown
 Asmond_RidersJacket_Grey
 Asmond_RidersJacket_LoneWolf
+Asmond_RidersJacket_Red
 -----------------------------
 Asmond_Shirt_CheckBlue
 Asmond_Shirt_PlaneYellow
