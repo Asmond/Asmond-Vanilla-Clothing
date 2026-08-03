@@ -279,6 +279,7 @@ Asmond_MilitaryCap_TTSKO
 Asmond_MilitaryCap_Tan
 Asmond_MilitaryCap_Grey
 Asmond_MilitaryCap_TropenTarn
+Asmond_MilitaryCap_Winter
 --------------------------
 Asmond_OfficerHat_Gulag
 Asmond_OfficerHat_Livonia
