@@ -908,8 +908,6 @@ Asmond_TrackSuitJacket_LightBlue
 Asmond_TrackSuitJacket_Maroon
 -----------------------------
 Asmond_TShirt_BlackWhite
-Asmond_TShirt_StripesBlue
-Asmond_TShirt_BrownBrown
 Asmond_TShirt_LightBlue
 Asmond_TShirt_MilitaryBlue
 Asmond_TShirt_MilitaryBrown
@@ -918,8 +916,8 @@ Asmond_TShirt_MilitaryGrey
 Asmond_TShirt_WhiteBlue
 Asmond_TShirt_WhiteGreen
 Asmond_TShirt_WhitePink
+Asmond_TShirt_StripesBlue
 Asmond_TShirt_StripesWhite
-Asmond_TShirt_StripesGreen
 -----------------------------
 Asmond_TTSKOJacket_VSR93
 Asmond_TTSKOJacket_Grey
