@@ -237,8 +237,6 @@ Asmond_BaseballCap_TTSKO
 --------------------------
 Asmond_BeanieHat_White
 Asmond_BeanieHat_M05
-Asmond_BeanieHat_Stalker
-Asmond_BeanieHat_Orange
 Asmond_BeanieHat_EMR
 Asmond_BeanieHat_Brown
 Asmond_BeanieHat_BDU
@@ -360,7 +358,6 @@ Asmond_BallisticHelmet_UNA
 --------------------------------
 Asmond_Bandana_Snow
 Asmond_Bandana_ACU
-Asmond_Bandana_OMK
 Asmond_Bandana_Woodland
 Asmond_Bandana_BDU
 Asmond_Bandana_Hunter
@@ -370,10 +367,8 @@ Asmond_Bandana_PlaneBrown
 Asmond_Bandana_PlaneGrey
 Asmond_Bandana_PlaneRed
 Asmond_Bandana_EMR
-Asmond_Bandana_SquareGreen
 Asmond_Bandana_SquareRed
 Asmond_Bandana_SquareBlue
-Asmond_Bandana_SquareWhite
 Asmond_Bandana_Winter
 Asmond_Bandana_Desert
 --------------------------------
@@ -910,6 +905,7 @@ Asmond_TrackSuitJacket_Maroon
 Asmond_TShirt_BlackWhite
 Asmond_TShirt_LightBlue
 Asmond_TShirt_MilitaryBlue
+Asmond_TShirt_MilitaryBeige
 Asmond_TShirt_MilitaryBrown
 Asmond_TShirt_MilitaryGreen
 Asmond_TShirt_MilitaryGrey
