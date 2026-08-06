@@ -6,16 +6,6 @@
 
 <!-- PLATE CARRIER VESTS -->
 
-	<type name="Asmond_PlateCarrierVest_Combat">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
-			<item name="Asmond_PlateCarrierHolster_Combat" chance="1.00" />
-		</attachments>
-		<attachments chance="0.85">
-			<item name="Asmond_PlateCarrierPouches_Combat" chance="1.00" />
-		</attachments>
-	</type>
-
 	<type name="Asmond_PlateCarrierVest_Arctic">
 		<damage min="0.1" max="0.6" />
 		<attachments chance="0.85">
