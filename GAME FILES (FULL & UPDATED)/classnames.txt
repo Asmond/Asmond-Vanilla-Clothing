@@ -559,8 +559,8 @@ Asmond_GorkaPants_TTSKO
 Asmond_GorkaPants_WinterBerezka
 Asmond_GorkaPants_EMR
 --------------------------------
-Asmond_HeavyMilitaryPants_BlackMulticam
 Asmond_HeavyMilitaryPants_ACU
+Asmond_HeavyMilitaryPants_EMR
 Asmond_HeavyMilitaryPants_Strichtarn
 Asmond_HeavyMilitaryPants_VSR93
 Asmond_HeavyMilitaryPants_FleckTarn
@@ -596,7 +596,6 @@ Asmond_MedicalScrubsPants_Black
 Asmond_MedicalScrubsPants_Blue
 Asmond_MedicalScrubsPants_Red
 --------------------------------
-Asmond_MilitaryShorts_MulticamDark
 Asmond_MilitaryShorts_TropenTarn
 Asmond_MilitaryShorts_BDU
 Asmond_MilitaryShorts_Desert
@@ -721,8 +720,8 @@ Asmond_HikingJacket_WhiteCamo
 Asmond_HikingJacket_Brown
 Asmond_HikingJacket_GreyBlue
 -----------------------------
-Asmond_HeavyMilitaryJacket_BlackMulticam
 Asmond_HeavyMilitaryJacket_ACU
+Asmond_HeavyMilitaryJacket_EMR
 Asmond_HeavyMilitaryJacket_Strichtarn
 Asmond_HeavyMilitaryJacket_VSR93
 Asmond_HeavyMilitaryJacket_FleckTarn
