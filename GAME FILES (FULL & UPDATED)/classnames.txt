@@ -984,7 +984,6 @@ Asmond_ReflexVest_UN
 Asmond_PlateCarrierVest_UN
 Asmond_PlateCarrierVest_Arctic
 Asmond_PlateCarrierVest_BDU
-Asmond_PlateCarrierVest_Combat
 Asmond_PlateCarrierVest_EMR
 Asmond_PlateCarrierVest_Woodland
 Asmond_PlateCarrierVest_White
@@ -993,7 +992,6 @@ Asmond_PlateCarrierVest_Surpat
 --------------------------------
 Asmond_PlateCarrierPouches_Arctic
 Asmond_PlateCarrierPouches_BDU
-Asmond_PlateCarrierPouches_Combat
 Asmond_PlateCarrierPouches_EMR
 Asmond_PlateCarrierPouches_Woodland
 Asmond_PlateCarrierPouches_White
@@ -1002,7 +1000,6 @@ Asmond_PlateCarrierPouches_Surpat
 --------------------------------
 Asmond_PlateCarrierHolster_Arctic
 Asmond_PlateCarrierHolster_BDU
-Asmond_PlateCarrierHolster_Combat
 Asmond_PlateCarrierHolster_EMR
 Asmond_PlateCarrierHolster_Woodland
 Asmond_PlateCarrierHolster_White
