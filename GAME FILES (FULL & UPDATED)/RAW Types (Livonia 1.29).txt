@@ -6276,7 +6276,7 @@
     <usage name="Military"/>
   </type>
 
-  <type name="Asmond_HeavyMilitaryPants_BlackMulticam">
+  <type name="Asmond_HeavyMilitaryPants_EMR">
     <nominal>0</nominal>
     <lifetime>28800</lifetime>
     <restock>600</restock>
@@ -6725,19 +6725,6 @@
   </type>
 
   <type name="Asmond_MilitaryShorts_TropenTarn">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>600</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-  </type>
-
-  <type name="Asmond_MilitaryShorts_MulticamDark">
     <nominal>0</nominal>
     <lifetime>28800</lifetime>
     <restock>600</restock>
@@ -8087,7 +8074,7 @@
     <value name="Tier3"/>
   </type>
 
-  <type name="Asmond_HeavyMilitaryJacket_BlackMulticam">
+  <type name="Asmond_HeavyMilitaryJacket_EMR">
     <nominal>0</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
