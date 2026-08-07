@@ -981,6 +981,7 @@ Asmond_HuntingVest_Beige
 Asmond_ReflexVest_UN
 --------------------------------
 Asmond_PlateCarrierVest_UN
+Asmond_PlateCarrierVest_UNA
 Asmond_PlateCarrierVest_Arctic
 Asmond_PlateCarrierVest_BDU
 Asmond_PlateCarrierVest_EMR
