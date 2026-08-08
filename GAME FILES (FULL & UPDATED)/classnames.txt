@@ -559,7 +559,6 @@ Asmond_GorkaPants_TTSKO
 Asmond_GorkaPants_WinterBerezka
 Asmond_GorkaPants_EMR
 --------------------------------
-Asmond_HeavyMilitaryPants_ACU
 Asmond_HeavyMilitaryPants_EMR
 Asmond_HeavyMilitaryPants_Strichtarn
 Asmond_HeavyMilitaryPants_VSR93
@@ -720,7 +719,6 @@ Asmond_HikingJacket_WhiteCamo
 Asmond_HikingJacket_Brown
 Asmond_HikingJacket_GreyBlue
 -----------------------------
-Asmond_HeavyMilitaryJacket_ACU
 Asmond_HeavyMilitaryJacket_EMR
 Asmond_HeavyMilitaryJacket_Strichtarn
 Asmond_HeavyMilitaryJacket_VSR93
