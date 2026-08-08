@@ -6289,19 +6289,6 @@
     <usage name="Military"/>
   </type>
 
-  <type name="Asmond_HeavyMilitaryPants_ACU">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>600</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-  </type>
-
   <type name="Asmond_HeavyMilitaryPants_Strichtarn">
     <nominal>0</nominal>
     <lifetime>28800</lifetime>
@@ -8075,19 +8062,6 @@
   </type>
 
   <type name="Asmond_HeavyMilitaryJacket_EMR">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-  </type>
-
-  <type name="Asmond_HeavyMilitaryJacket_ACU">
     <nominal>0</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
