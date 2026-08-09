@@ -645,7 +645,8 @@ Asmond_Blouse_Cyan
 Asmond_Blouse_Blue
 Asmond_Blouse_Brown
 -----------------------------
-Asmond_BushlatJacket_Tiger
+Asmond_BomberJacket_Black
+Asmond_BomberJacket_Sport
 Asmond_BomberJacket_Maroon
 Asmond_BomberJacket_Pink
 Asmond_BomberJacket_Green
@@ -662,6 +663,7 @@ Asmond_BushlatJacket_Brown
 Asmond_BushlatJacket_Grey
 Asmond_BushlatJacket_Orel
 Asmond_BushlatJacket_Winter
+Asmond_BushlatJacket_Tiger
 Asmond_BushlatJacket_Orange
 -----------------------------
 Asmond_CasualShirt_White
