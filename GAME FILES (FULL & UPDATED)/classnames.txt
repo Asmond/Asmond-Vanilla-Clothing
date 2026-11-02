@@ -650,7 +650,6 @@ Asmond_Jeans_DarkGreen
 Asmond_Jeans_LightBlue
 Asmond_Jeans_DarkBrown
 Asmond_Jeans_LightGrey
-Asmond_Jeans_LightGreen
 Asmond_Jeans_Camo
 --------------------------------
 Asmond_JumpsuitPants_Black
