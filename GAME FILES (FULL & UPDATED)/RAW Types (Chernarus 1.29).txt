@@ -10174,7 +10174,7 @@
       <value name="Tier2"/>
     </type>
 
-    <type name="Asmond_Shirt_MovieAnotonio">
+    <type name="Asmond_Shirt_MovieAntonio">
       <nominal>0</nominal>
       <lifetime>14400</lifetime>
       <restock>0</restock>
