@@ -1051,7 +1051,7 @@
     <value name="Tier2"/>
   </type>
 
-  <type name="Asmond_T56TankerHelmet_Black">
+  <type name="Asmond_T65TankerHelmet_Black">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -1064,7 +1064,7 @@
     <usage name="Special"/>
   </type>
 
-  <type name="Asmond_T56TankerHelmet_White">
+  <type name="Asmond_T65TankerHelmet_White">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
