@@ -22,7 +22,7 @@ Asmond_AssaultBag_Woodland
 Asmond_AssaultBag_Tan
 Asmond_AssaultBag_BDU
 Asmond_AssaultBag_Hunter
-Asmond_AssaultBag_Desert
+Asmond_AssaultBag_Brown
 ----------------------------
 Asmond_Attack2Bag_Arctic
 Asmond_Attack2Bag_M05
@@ -30,6 +30,8 @@ Asmond_Attack2Bag_Snow
 Asmond_Attack2Bag_BDU
 Asmond_Attack2Bag_Desert
 Asmond_Attack2Bag_EMR
+Asmond_Attack2Bag_DarkMulticam
+Asmond_Attack2Bag_Tan
 ----------------------------
 Asmond_ChildBag_Pink
 Asmond_ChildBag_Grey
@@ -41,7 +43,6 @@ Asmond_CoyoteBag_Snow
 Asmond_CoyoteBag_BDU
 Asmond_CoyoteBag_EMR
 Asmond_CoyoteBag_Woodland
-Asmond_CoyoteBag_Desert
 Asmond_CoyoteBag_TTSKO
 Asmond_CoyoteBag_Hero
 ----------------------------
@@ -75,6 +76,8 @@ Asmond_MountainBag_BrownGreen
 Asmond_MountainBag_BDU
 Asmond_MountainBag_TTSKO
 Asmond_MountainBag_Multicam
+Asmond_MountainBag_Tan
+Asmond_MountainBag_DCU
 ----------------------------
 Asmond_SmershBag_ACU
 Asmond_SmershBag_EMR
@@ -92,6 +95,7 @@ Asmond_SatchelBag_Red
 Asmond_SatchelBag_Pink
 Asmond_SatchelBag_Grey
 Asmond_SatchelBag_Green
+Asmond_SatchelBag_Tan
 ----------------------------
 Asmond_TaloonBag_Grey
 Asmond_TaloonBag_White
@@ -110,7 +114,7 @@ Asmond_TortillaBag_BDU
 Asmond_TortillaBag_Black
 Asmond_TortillaBag_Brown
 Asmond_TortillaBag_TTSKO
-
+Asmond_TTSKOJacket_CCE
 
 ################## BELTS ##################################
 Asmond_CivilianBelt_Brown
@@ -196,6 +200,8 @@ Asmond_WoolGloves_Military
 Asmond_WoolGloves_Stalker
 Asmond_WoolGloves_Arctic
 Asmond_WoolGloves_90s
+Asmond_WoolGloves_BlackBones
+Asmond_WoolGloves_TanBones
 --------------------------
 Asmond_WoolGlovesFingerless_Brown
 Asmond_WoolGlovesFingerless_Blue
@@ -209,6 +215,8 @@ Asmond_WoolGlovesFingerless_Military
 Asmond_WoolGlovesFingerless_Stalker
 Asmond_WoolGlovesFingerless_Arctic
 Asmond_WoolGlovesFingerless_90s
+Asmond_WoolGlovesFingerless_BlackBones
+Asmond_WoolGlovesFingerless_TanBones
 --------------------------
 Asmond_WorkingGloves_Brown
 Asmond_WorkingGloves_Light
@@ -234,6 +242,43 @@ Asmond_BaseballCap_MulticamPatch
 Asmond_BaseballCap_MulticamDarkPatch
 Asmond_BaseballCap_RedWhite
 Asmond_BaseballCap_TTSKO
+Asmond_BaseballCap_Autumn
+Asmond_BaseballCap_Chel
+Asmond_BaseballCap_Desert
+Asmond_BaseballCap_HBeige
+Asmond_BaseballCap_ION
+Asmond_BaseballCap_Summer
+--------------------------
+Asmond_BackwardsCap_ACUCamoPatch
+Asmond_BackwardsCap_Autumn
+Asmond_BackwardsCap_Beige
+Asmond_BackwardsCap_Black
+Asmond_BackwardsCap_BlackBeige
+Asmond_BackwardsCap_BlackWhitePatch
+Asmond_BackwardsCap_Blue
+Asmond_BackwardsCap_BlueWhite
+Asmond_BackwardsCap_BrownOAT
+Asmond_BackwardsCap_Camo
+Asmond_BackwardsCap_Chel
+Asmond_BackwardsCap_CMMG_Black
+Asmond_BackwardsCap_CMMG_Pink
+Asmond_BackwardsCap_Desert
+Asmond_BackwardsCap_DesertCamo
+Asmond_BackwardsCap_EMRCamoPatch
+Asmond_BackwardsCap_GreenWhitePatch
+Asmond_BackwardsCap_GreyWhite
+Asmond_BackwardsCap_HBeige
+Asmond_BackwardsCap_ION
+Asmond_BackwardsCap_MulticamDarkPatch
+Asmond_BackwardsCap_MulticamPatch
+Asmond_BackwardsCap_Olive
+Asmond_BackwardsCap_Pink
+Asmond_BackwardsCap_Red
+Asmond_BackwardsCap_RedWhite
+Asmond_BackwardsCap_Summer
+Asmond_BackwardsCap_TTSKO
+Asmond_BackwardsCap_Woodland
+Asmond_BackwardsCap_WZ93
 --------------------------
 Asmond_BeanieHat_White
 Asmond_BeanieHat_M05
@@ -254,7 +299,7 @@ Asmond_BoonieHat_FleckTarn
 Asmond_BoonieHat_Berezka
 Asmond_BoonieHat_Hunter
 Asmond_BoonieHat_Winter
-Asmond_BoonieHat_Desert
+Asmond_BoonieHat_DCU
 --------------------------
 Asmond_BudenovkaHat_Brown
 Asmond_BudenovkaHat_Green
@@ -278,6 +323,8 @@ Asmond_MilitaryCap_Tan
 Asmond_MilitaryCap_Grey
 Asmond_MilitaryCap_TropenTarn
 Asmond_MilitaryCap_Winter
+Asmond_MilitaryCap_CCE
+Asmond_MilitaryCap_Green
 --------------------------
 Asmond_OfficerHat_Gulag
 Asmond_OfficerHat_Livonia
@@ -326,6 +373,7 @@ Asmond_TankerHelmet_Snow
 Asmond_TankerHelmet_Green
 Asmond_TankerHelmet_Brown
 Asmond_TankerHelmet_Winter
+Asmond_TankerHelmet_Tan
 --------------------------
 Asmond_Ushanka_Beige
 Asmond_Ushanka_Blue
@@ -387,6 +435,9 @@ Asmond_CamoHelmet_Berezka
 Asmond_CamoHelmet_TTSKO
 Asmond_CamoHelmet_UN
 Asmond_CamoHelmet_UNA
+Asmond_CamoHelmet_DCU
+Asmond_CamoHelmet_DesertDPM
+Asmond_CamoHelmet_FNO
 --------------------------------
 Asmond_ChainMail_Coif_Rebels
 Asmond_ChainMail_Coif_King
@@ -394,6 +445,7 @@ Asmond_ChainMail_Coif_King
 Asmond_FirefightersHelmet_Blue
 Asmond_FirefightersHelmet_Brown
 Asmond_FirefightersHelmet_Green
+Asmond_FirefightersHelmet_Nasdara
 --------------------------------
 Asmond_GorkaHelmet_NAC
 Asmond_GorkaHelmet_EMR
@@ -410,12 +462,17 @@ Asmond_GreatHelm_Rebels
 Asmond_GreatHelm_King
 Asmond_GreatHelm_RebelsRed
 --------------------------------
+Asmond_Keffiyeh_White
+Asmond_Keffiyeh_Green
+Asmond_Keffiyeh_Terror
+--------------------------------
 Asmond_MilitaryBeret_Grey
 Asmond_MilitaryBeret_Brown
 Asmond_MilitaryBeret_Blue
 Asmond_MilitaryBeret_Comandos
 Asmond_MilitaryBeret_Purple
 Asmond_MilitaryBeret_Desert
+Asmond_MilitaryBeret_Tan
 --------------------------------
 Asmond_Mich2001Helmet_Woodland
 Asmond_Mich2001Helmet_Tan
@@ -456,6 +513,7 @@ Asmond_Ssh68Helmet_Grey
 --------------------------------
 Asmond_T56TankerHelmet_Black
 Asmond_T56TankerHelmet_White
+Asmond_T65TankerHelmet_Camo
 
 
 ################## MASKS ################################
@@ -496,6 +554,7 @@ Asmond_BalaclavaMask_Winter
 Asmond_CombatGasmask_Moss
 Asmond_CombatGasmask_Camo
 Asmond_CombatGasmask_Black
+Asmond_CombatGasmask_Winter
 --------------------------------
 Asmond_GP5GasMask_Camo
 Asmond_GP5GasMask_Black
@@ -510,6 +569,7 @@ Asmond_Mimemask_Fawkes
 Asmond_Mimemask_Killer
 Asmond_Mimemask_King
 Asmond_Mimemask_BaldwinIV
+Asmond_MimeMask_Joker
 --------------------------------
 Asmond_NioshMask_Grey
 Asmond_NioshMask_Dusted
@@ -534,6 +594,9 @@ Asmond_CargoPants_Grey
 Asmond_CargoPants_Multicam
 Asmond_CargoPants_MulticamDark
 Asmond_CargoPants_Winter
+Asmond_CargoPants_CCE
+Asmond_CargoPants_DesertDPM
+Asmond_CargoPants_TropenTarn
 --------------------------------
 Asmond_Chainmail_Leggings_King
 Asmond_Chainmail_Leggings_Rebels
@@ -541,6 +604,7 @@ Asmond_Chainmail_Leggings_Rebels
 Asmond_FirefightersPants_Blue
 Asmond_FirefightersPants_Green
 Asmond_FirefightersPants_Orange
+Asmond_FirefighterPants_Nasdara
 --------------------------------
 Asmond_GasStationPants_YPF
 Asmond_GasStationPants_Chernarus
@@ -558,6 +622,7 @@ Asmond_GorkaPants_Spetsnaz
 Asmond_GorkaPants_TTSKO
 Asmond_GorkaPants_WinterBerezka
 Asmond_GorkaPants_EMR
+Asmond_GorkaPants_FNO
 --------------------------------
 Asmond_HeavyMilitaryPants_EMR
 Asmond_HeavyMilitaryPants_Strichtarn
@@ -585,7 +650,8 @@ Asmond_Jeans_DarkGreen
 Asmond_Jeans_LightBlue
 Asmond_Jeans_DarkBrown
 Asmond_Jeans_LightGrey
-Asmond_Jeans_LightGree
+Asmond_Jeans_LightGreen
+Asmond_Jeans_Camo
 --------------------------------
 Asmond_JumpsuitPants_Black
 Asmond_JumpsuitPants_Light
@@ -600,20 +666,28 @@ Asmond_MilitaryShorts_BDU
 Asmond_MilitaryShorts_Desert
 Asmond_MilitaryShorts_TTSKO
 Asmond_MilitaryShorts_WZ93
+Asmond_MilitaryShorts_DCU
 --------------------------------
 Asmond_NBCPants_Blue
 Asmond_NBCPants_Orange
 Asmond_NBCPants_Camo
 Asmond_NBCPants_Grey
 --------------------------------
+Asmond_OBRPants_FNO
+Asmond_OBRPants_TropenTarn
+Asmond_OBRPants_TTSKO
+Asmond_OBRPants_DCU
+--------------------------------
 Asmond_PolicePantsCamo_Tiger
 Asmond_PolicePantsCamo_Orel
 Asmond_PolicePantsCamo_VSRFlora
+Asmond_PolicePantsCamo_DPM
 --------------------------------
 Asmond_ParamedicPants_Black
 --------------------------------
 Asmond_PolicePants_Gulag
 Asmond_PolicePants_Livonia
+Asmond_PolicePants_Nasdara
 --------------------------------
 Asmond_PrisonUniformPants_Livonia
 --------------------------------
@@ -634,7 +708,7 @@ Asmond_TTSKOPants_WZ93
 --------------------------------
 Asmond_TurnoutPants_Beige
 Asmond_TurnoutPants_Black
-
+Asmond_TurnoutPants_Nasdara
 
 
 ################## TOPS ################################
@@ -655,6 +729,7 @@ Asmond_BomberJacket_Winter
 Asmond_BomberJacket_Camo
 Asmond_BomberJacket_Yellow
 Asmond_BomberJacket_White
+Asmond_BomberJacket_Tan
 -----------------------------
 Asmond_BushlatJacket_Arctic
 Asmond_BushlatJacket_Green
@@ -665,6 +740,7 @@ Asmond_BushlatJacket_Orel
 Asmond_BushlatJacket_Winter
 Asmond_BushlatJacket_Tiger
 Asmond_BushlatJacket_Orange
+Asmond_BushlatJacket_TTSKO
 -----------------------------
 Asmond_CasualShirt_White
 Asmond_CasualShirt_Pink
@@ -693,6 +769,11 @@ Asmond_DownJacket_White
 Asmond_FirefighterJacket_Blue
 Asmond_FirefighterJacket_Green
 Asmond_FirefighterJacket_Orange
+Asmond_FirefighterJacket_Nasdara
+-----------------------------
+Asmond_FishtailJacket_Beige
+Asmond_FishtailJacket_Olive
+Asmond_FishtailJacket_EMR
 -----------------------------
 Asmond_GasStationJacket_YPF
 Asmond_GasStationJacket_Chernarus
@@ -710,6 +791,7 @@ Asmond_GorkaJacket_Spetsnaz
 Asmond_GorkaJacket_TTSKO
 Asmond_GorkaJacket_WinterBerezka
 Asmond_GorkaJacket_EMR
+Asmond_GorkaJacket_FNO
 -----------------------------
 Asmond_GulagJacket_Green
 Asmond_GulagJacket_White
@@ -759,6 +841,7 @@ Asmond_LightMilitaryJacket_Snow
 Asmond_LightMilitaryJacket_Partizan
 Asmond_LightMilitaryJacket_Arctic
 Asmond_LightMilitaryJacket_Desert
+Asmond_LightMilitaryJacket_DCU
 -----------------------------
 Asmond_LongSleevesShirt_Black
 Asmond_LongSleevesShirt_Blue
@@ -776,6 +859,8 @@ Asmond_M65Jacket_BDU
 Asmond_M65Jacket_Brown
 Asmond_M65Jacket_Grey
 Asmond_M65Jacket_TTSKO
+Asmond_M65Jacket_DesertDPM
+Asmond_M65Jacket_TropenTarn
 -----------------------------
 Asmond_MedicalScrubsShirt_Black
 Asmond_MedicalScrubsShirt_Blue
@@ -807,9 +892,15 @@ Asmond_NBCJacket_Orange
 Asmond_NBCJacket_Camo
 Asmond_NBCJacket_Grey
 -----------------------------
+Asmond_OBRJacket_DCU
+Asmond_OBRJacket_FNO
+Asmond_OBRJacket_TropenTarn
+Asmond_OBRJacket_TTSKO
+-----------------------------
 Asmond_PoliceJacketCamo_Tiger
 Asmond_PoliceJacketCamo_Orel
 Asmond_PoliceJacketCamo_VSRFlora
+Asmond_PoliceJacketCamo_DPM
 -----------------------------
 Asmond_ParamedicJacket_Black
 -----------------------------
@@ -817,9 +908,14 @@ Asmond_PilotJacket_Dark
 Asmond_PilotJacket_Green
 Asmond_PilotJacket_Blue
 Asmond_PilotJacket_Winter
+Asmond_PilotJacket_Tan
 -----------------------------
 Asmond_PoliceJacket_Gulag
 Asmond_PoliceJacket_Livonia
+Asmond_PoliceJacket_Nasdara
+-----------------------------
+Asmond_PoliceShortSleeveShirt_Chernarus
+Asmond_PoliceShortSleeveShirt_Livonia
 -----------------------------
 Asmond_PrisonUniformJacket_Livonia
 -----------------------------
@@ -843,8 +939,10 @@ Asmond_RidersJacket_Brown
 Asmond_RidersJacket_Grey
 Asmond_RidersJacket_LoneWolf
 Asmond_RidersJacket_Red
+Asmond_RidersJacket_StormRider
 -----------------------------
 Asmond_Shirt_CheckBlue
+Asmond_Shirt_CheckRed
 Asmond_Shirt_PlaneYellow
 Asmond_Shirt_PlaneGreen
 Asmond_Shirt_PlaneRed
@@ -853,7 +951,7 @@ Asmond_Shirt_PlaneBrown
 Asmond_Shirt_PlaneGrey
 Asmond_Shirt_PlaneWhite
 Asmond_Shirt_PlaneHunter
-Asmond_Shirt_MovieAnotonio
+Asmond_Shirt_MovieAntonio
 Asmond_Shirt_MovieFlowers
 Asmond_Shirt_MovieHawai
 Asmond_Shirt_MovieVice
@@ -925,6 +1023,7 @@ Asmond_TTSKOJacket_WZ93
 -----------------------------
 Asmond_TurnoutJacket_Beige
 Asmond_TurnoutJacket_Black
+Asmond_TurnoutPants_Nasdara
 -----------------------------
 Asmond_WinterMilitaryCoat_Beige
 Asmond_WinterMilitaryCoat_NavyBlue
@@ -946,8 +1045,12 @@ Asmond_WorkingJacket_Green
 Asmond_WorkingJacket_Yellow
 
 
-
 ################## VESTS ################################
+Asmond_ChestRigVest_Black
+Asmond_ChestRigVest_DCU
+Asmond_ChestRigVest_Desert
+Asmond_ChestRigVest_DesertDPM
+--------------------------------
 Asmond_ChestHolster_Black
 Asmond_ChestHolster_Tan
 --------------------------------
@@ -969,6 +1072,8 @@ Asmond_HighCapacityVest_Orel
 Asmond_HighCapacityVest_TTSKO
 Asmond_HighCapacityVest_Winter
 Asmond_HighCapacityVest_Desert
+Asmond_HighCapacityVest_Brown
+Asmond_HighCapacityVest_White
 --------------------------------
 Asmond_HuntingVest_PolarBearPelt
 Asmond_HuntingVest_WolfPelt
@@ -977,8 +1082,12 @@ Asmond_HuntingVest_Grey
 Asmond_HuntingVest_Winter
 Asmond_HuntingVest_Brown
 Asmond_HuntingVest_Beige
+Asmond_HuntingVest_Autumn
+Asmond_HuntingVest_Summer
 --------------------------------
 Asmond_ReflexVest_UN
+Asmond_ReflexVest_Resident
+Asmond_ReflexVest_Yellow
 --------------------------------
 Asmond_PlateCarrierVest_UN
 Asmond_PlateCarrierVest_UNA
@@ -989,6 +1098,9 @@ Asmond_PlateCarrierVest_Woodland
 Asmond_PlateCarrierVest_White
 Asmond_PlateCarrierVest_Brown
 Asmond_PlateCarrierVest_Surpat
+Asmond_PlateCarrierVest_DCU
+Asmond_PlateCarrierVest_Multicam
+Asmond_PlateCarrierVest_UNTAN
 --------------------------------
 Asmond_PlateCarrierPouches_Arctic
 Asmond_PlateCarrierPouches_BDU
@@ -997,6 +1109,8 @@ Asmond_PlateCarrierPouches_Woodland
 Asmond_PlateCarrierPouches_White
 Asmond_PlateCarrierPouches_Brown
 Asmond_PlateCarrierPouches_Surpat
+Asmond_PlateCarrierPouches_DCU
+Asmond_PlateCarrierPouches_Multicam
 --------------------------------
 Asmond_PlateCarrierHolster_Arctic
 Asmond_PlateCarrierHolster_BDU
@@ -1005,6 +1119,8 @@ Asmond_PlateCarrierHolster_Woodland
 Asmond_PlateCarrierHolster_White
 Asmond_PlateCarrierHolster_Brown
 Asmond_PlateCarrierHolster_Surpat
+Asmond_PlateCarrierHolster_DCU
+Asmond_PlateCarrierHolster_Multicam
 --------------------------------
 Asmond_PoliceVest_Tiger
 Asmond_PoliceVest_White
@@ -1023,6 +1139,7 @@ Asmond_PressVest_Green
 Asmond_PressVest_TTSKO
 Asmond_PressVest_UN
 Asmond_PressVest_UNA
+Asmond_PressVest_Tan
 --------------------------------
 Asmond_SmershVest_ACU
 Asmond_SmershVest_EMR
@@ -1046,4 +1163,12 @@ Asmond_UKAssaultVest_Orel
 Asmond_UKAssaultVest_Tan
 Asmond_UKAssaultVest_BDU
 Asmond_UKAssaultVest_TTSKO
-Asmond_UKAssaultVest_Desert
+Asmond_UKAssaultVest_Brown
+
+
+################## ATTACHMENTS ######################
+Asmond_MedicPouch_Beige
+Asmond_MedicPouch_Black
+Asmond_MedicPouch_Camo
+Asmond_MedicPouch_Desert
+Asmond_MedicPouch_Green
