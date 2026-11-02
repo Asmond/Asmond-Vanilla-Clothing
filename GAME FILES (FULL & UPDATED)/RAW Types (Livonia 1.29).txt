@@ -246,21 +246,6 @@
     <value name="Tier3"/>
   </type>
 
-  <type name="Asmond_AssaultBag_Desert">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="containers"/>
-    <usage name="Military"/>
-    <value name="Tier2"/>
-    <value name="Tier3"/>
-  </type>
-
   <type name="Asmond_Attack2Bag_Arctic">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
@@ -462,20 +447,6 @@
   </type>
 
   <type name="Asmond_CoyoteBag_Woodland">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-    <category name="containers"/>
-    <usage name="Military"/>
-    <value name="Tier3"/>
-  </type>
-
-  <type name="Asmond_CoyoteBag_Desert">
     <nominal>0</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
@@ -2818,21 +2789,6 @@
   </type>
 
   <type name="Asmond_BoonieHat_Winter">
-    <nominal>0</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <tag name="shelves"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-
-  <type name="Asmond_BoonieHat_Desert">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -6551,19 +6507,6 @@
   </type>
 
   <type name="Asmond_Jeans_LightGrey">
-    <nominal>0</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Village"/>
-  </type>
-
-  <type name="Asmond_Jeans_LightGreen">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -11999,19 +11942,6 @@
   </type>
 
   <type name="Asmond_UKAssaultVest_TTSKO">
-    <nominal>0</nominal>
-    <lifetime>14400</lifetime>
-    <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-  </type>
-
-  <type name="Asmond_UKAssaultVest_Desert">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
