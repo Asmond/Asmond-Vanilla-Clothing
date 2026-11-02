@@ -2,6 +2,7 @@
 //////// ASMOND VANILLA CLOTHING | CLASS NAMES ///////////
 //////////////////////////////////////////////////////////
 
+
 ################## BACKPACKS ##############################
 Asmond_AliceBag_ACU
 Asmond_AliceBag_Snow
@@ -116,6 +117,7 @@ Asmond_TortillaBag_Brown
 Asmond_TortillaBag_TTSKO
 Asmond_TTSKOJacket_CCE
 
+
 ################## BELTS ##################################
 Asmond_CivilianBelt_Brown
 Asmond_CivilianBelt_Green
@@ -160,7 +162,6 @@ Asmond_TraditionalBoots_White
 Asmond_WorkingBoots_White
 Asmond_WorkingBoots_Black
 Asmond_WorkingBoots_LightBrown
-
 
 
 ################## GLOVES #################################
@@ -223,7 +224,6 @@ Asmond_WorkingGloves_Light
 Asmond_WorkingGloves_Green
 Asmond_WorkingGloves_Grey
 Asmond_WorkingGloves_Orange
-
 
 
 ################## HATS #######################################
@@ -577,6 +577,7 @@ Asmond_NioshMask_Hazmat
 --------------------------------
 Asmond_SkiGoggles_Black
 Asmond_SkiGoggles_Black
+
 
 ################## PANTS ################################
 Asmond_CargoPants_DCU
