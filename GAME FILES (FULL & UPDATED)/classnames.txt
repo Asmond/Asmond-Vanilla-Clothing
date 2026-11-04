@@ -953,6 +953,7 @@ Asmond_Shirt_PlaneGrey
 Asmond_Shirt_PlaneWhite
 Asmond_Shirt_PlaneHunter
 Asmond_Shirt_MovieAntonio
+Asmond_Shirt_MovieContractor
 Asmond_Shirt_MovieFlowers
 Asmond_Shirt_MovieHawai
 Asmond_Shirt_MovieVice
