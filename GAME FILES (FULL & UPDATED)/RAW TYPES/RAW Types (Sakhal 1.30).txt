@@ -8913,6 +8913,19 @@
     <usage name="Hunting"/>
   </type>
 
+  <type name="Asmond_OBRJacket_DBDU">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+  </type>
+
   <type name="Asmond_OBRJacket_DCU">
     <nominal>0</nominal>
     <lifetime>1800</lifetime>
@@ -8962,6 +8975,18 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
+    <usage name="Military"/>
+  </type>
+
+  <type name="Asmond_OBRPants_DBDU">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
     <usage name="Military"/>
   </type>
 
