@@ -674,10 +674,11 @@ Asmond_NBCPants_Orange
 Asmond_NBCPants_Camo
 Asmond_NBCPants_Grey
 --------------------------------
+Asmond_OBRPants_DBDU
+Asmond_OBRPants_DCU
 Asmond_OBRPants_FNO
 Asmond_OBRPants_TropenTarn
 Asmond_OBRPants_TTSKO
-Asmond_OBRPants_DCU
 --------------------------------
 Asmond_PolicePantsCamo_Tiger
 Asmond_PolicePantsCamo_Orel
@@ -893,6 +894,7 @@ Asmond_NBCJacket_Orange
 Asmond_NBCJacket_Camo
 Asmond_NBCJacket_Grey
 -----------------------------
+Asmond_OBRJacket_DBDU
 Asmond_OBRJacket_DCU
 Asmond_OBRJacket_FNO
 Asmond_OBRJacket_TropenTarn
