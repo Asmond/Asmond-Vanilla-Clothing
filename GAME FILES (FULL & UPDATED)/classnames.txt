@@ -46,6 +46,7 @@ Asmond_CoyoteBag_EMR
 Asmond_CoyoteBag_Woodland
 Asmond_CoyoteBag_TTSKO
 Asmond_CoyoteBag_Hero
+Asmond_CoyoteBag_FNO
 ----------------------------
 Asmond_DryBag_Camo
 Asmond_DryBag_Grey
@@ -110,13 +111,12 @@ Asmond_TaloonBag_LightBlue
 Asmond_TortillaBag_ACU
 Asmond_TortillaBag_Snow
 Asmond_TortillaBag_EMR
+Asmond_TortillaBag_FNO
 Asmond_TortillaBag_Woodland
 Asmond_TortillaBag_BDU
 Asmond_TortillaBag_Black
 Asmond_TortillaBag_Brown
 Asmond_TortillaBag_TTSKO
-Asmond_TTSKOJacket_CCE
-Asmond_TTSKOJacket_Tan
 
 
 ################## BELTS ##################################
@@ -1024,6 +1024,7 @@ Asmond_TTSKOJacket_Tan
 Asmond_TTSKOJacket_BDU
 Asmond_TTSKOJacket_Flecktarn
 Asmond_TTSKOJacket_WZ93
+Asmond_TTSKOJacket_CCE
 -----------------------------
 Asmond_TurnoutJacket_Beige
 Asmond_TurnoutJacket_Black
